@@ -1,0 +1,19 @@
+{
+  "name": "alexa-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amadeus": "^9.0.0",
+    "archiver": "^6.0.1",
+    "ask-sdk": "^2.14.0",
+    "ask-sdk-dynamodb-persistence-adapter": "^2.14.0",
+    "aws-sdk": "^2.1492.0"
+  }
+}
